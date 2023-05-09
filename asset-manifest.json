@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/photography/static/css/main.06cf95c3.css",
+    "main.js": "/photography/static/js/main.0025d52c.js",
+    "static/media/EBGaramond-Italic-VariableFont_wght.ttf": "/photography/static/media/EBGaramond-Italic-VariableFont_wght.5d703122d752bbfd2193.ttf",
+    "static/media/Jost-VariableFont_wght.ttf": "/photography/static/media/Jost-VariableFont_wght.0ef84783c95cf2a77caa.ttf",
+    "index.html": "/photography/index.html",
+    "main.06cf95c3.css.map": "/photography/static/css/main.06cf95c3.css.map",
+    "main.0025d52c.js.map": "/photography/static/js/main.0025d52c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06cf95c3.css",
+    "static/js/main.0025d52c.js"
+  ]
+}
